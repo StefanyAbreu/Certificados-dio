@@ -1,7 +1,7 @@
-# Certificados-dio
+# Certificados
 Repositório dedicado aos meus certificados, estudos e evolução na área de tecnologia pela plataforma DIO.🥇🎯
 
-# Certificados DIO
+# Certificados
 
 Repositório criado para organizar e compartilhar meus certificados e estudos realizados na plataforma DIO (Digital Innovation One).
 
